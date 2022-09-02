@@ -5,7 +5,7 @@
 
 
 I'm Eric a Software Engineer, Copywriter, Digital Marketer and a junior cloud engineer [Linkedin](https://www.linkedin.com/in/steve-eric-517993245/). I'm passionate about becoming the best world class Devops engineer, and I'm very passionate to contributing tremendiously to the community growth, adding value is my numb1 priority. 
-Documentation, frontend engineering, cloud engineering, and others. I create technical content (on my [Linkdin](https://www.linkedin.com/feed/update/urn:li:activity:6966171303930155008//), [Twitter](https://twitter.com/Kngerstephen), speak at some meetups/conferences, build technical communities...
+Documentation, frontend engineer, cloud engineer, and others. I create technical content (on my [Linkdin](https://www.linkedin.com/feed/update/urn:li:activity:6966171303930155008//), [Twitter](https://twitter.com/Kngerstephen), speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
@@ -13,7 +13,7 @@ Documentation, frontend engineering, cloud engineering, and others. I create tec
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Html&Css, and Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineering, or Frontend Engineering (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, or Frontend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing stephen.erich243@gmail.com
 
 ---
