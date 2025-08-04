@@ -29,5 +29,6 @@ If you're interested in trying it out or giving feedback, feel free to reach out
 - 📫 Reach me via stephen.erich243@gmail.com
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Steveric1&show_icons=true&include_all_commits=true&hide_border=true" alt="Steveric1' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steveric1&langs_count=8&layout=compact&hide_border=true" alt="Steveric1' GitHub stats" /> |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Steveric1&show_icons=true&include_all_commits=true&hide_border=true" alt="Steveric1's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steveric1&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
